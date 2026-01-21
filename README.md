@@ -57,5 +57,5 @@ Estou disponível para projetos de **Engenharia de Software**, **Desenvolvimento
 
 ---
 <p align="center">
-  <i>© 2024 Robson Calmunges. All rights reserved.</i>
+  <i>© 2024 Robson Calmunges. Todos os Direitos Reservados.</i>
 </p>
